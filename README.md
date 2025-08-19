@@ -1,2 +1,1 @@
-# Portfolio
-portfolio
+I am a passionate MERN Stack Developer with a strong foundation in building dynamic and user-friendly web applications. Skilled in React, Node.js, Express, and MongoDB, I enjoy transforming ideas into interactive solutions. My projects, including a To-Do App and Contact Manager, reflect my ability to create clean, efficient, and scalable applications. I am eager to contribute my technical skills and creativity to deliver impactful digital experiences.
